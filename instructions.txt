@@ -1,0 +1,17 @@
+in config, pretty simple
+api_id and api_hash go to https://my.telegram.org/
+log in and then go to API development tools
+its pretty straight forward what you need to do after that as it will show all info 
+the interval will just be the delay between it sends messages to the groups!
+now...
+for the groups enter in the channel link 
+an example of this is for https://t.me/merkzadvertise you would put t.me/merkzadvertise
+do this for all of the groups
+----------------------------------------------------------------------------------------
+put message in the config, its in json format, look up on google if you don't know what that means!
+
+theres now only 1 more thing to do!
+once you run it will ask for your phone number, it will send code and then just input the code that gets sent!
+
+after that your all good to go!
+have fun you sexy fag <3 
